@@ -1,0 +1,41 @@
+1.)Database Installation:
+   ------------------------
+
+   Open PDAScript File -> Copy all Content
+
+   Open Sql Server and Paste Content.
+
+   Press F5.
+
+
+----------------------------------------------------------------------------------------------
+
+2.)
+
+Name of DSN : mypda
+--------------------------------------------------------
+
+(select window NT authentication Mode only.)
+
+
+HOW TO Create DSN:
+----------------------
+Start -> Settings -> Control Panel -> Administrative Tools 
+-> Data Source(ODBC)
+
+
+Click on add Button -> select Sql Server 
+
+-> Name of DSN is mypda
+
+-> Server is .
+
+->Click on Next
+
+select windows NT authentication Mode
+
+click on Next
+
+Select Your DataBase Name (PDA)
+
+and Click on Finish.
